@@ -10,7 +10,7 @@ A modern gym management platform built with React, TypeScript, and Tailwind CSS.
 - **User Authentication**: Secure login and registration system
 - **Dashboard**: Comprehensive gym management dashboard
 - **Package Management**: Manage gym memberships and packages
-- **Responsive Design**: Works seamlessly on desktop and mobile devices.
+- **Responsive Design**: Works seamlessly on desktop and mobile devices
 
 ## 🛠️ Tech Stack
 
